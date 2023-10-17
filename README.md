@@ -1,3 +1,4 @@
+![logo](https://github.com/jiyalalcharmkar/jiyalalcharmkar/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm JIYA LAL CHARMKAR</h1>
 <h3 align="center">I am a passionate web designer .</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
